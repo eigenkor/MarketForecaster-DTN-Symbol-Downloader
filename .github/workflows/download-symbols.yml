@@ -2,8 +2,7 @@ name: Download DTN Symbols
 
 on:
   schedule:
-    # Run every 12 hours at 00:00 and 12:00 UTC
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Run every 12 hours at 00:00 and 12:00 UTC
   workflow_dispatch:
     inputs:
       resume_from:
@@ -23,8 +22,8 @@ env:
 jobs:
   download-symbols:
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # 2 hours timeout
-    
+    timeout-minutes: 120
+
     steps:
     - name: Install Git LFS
       run: |
@@ -35,12 +34,12 @@ jobs:
       uses: actions/checkout@v4
       with:
         lfs: true
-    
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: ${{ env.PYTHON_VERSION }}
-    
+
     - name: Cache pip dependencies
       uses: actions/cache@v3
       with:
@@ -48,15 +47,15 @@ jobs:
         key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
-    
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    
+
     - name: Create output directory
       run: mkdir -p dtn_symbols
-    
+
     - name: Restore download state
       uses: actions/cache@v3
       with:
@@ -66,7 +65,7 @@ jobs:
         key: dtn-download-state-${{ github.run_id }}
         restore-keys: |
           dtn-download-state-
-    
+
     - name: Download symbols
       id: download
       run: |
@@ -76,7 +75,7 @@ jobs:
         else
           python dtn_symbol_downloader.py --delay ${{ env.DOWNLOAD_DELAY }}
         fi
-        
+
         if [ -f "dtn_symbols/all_symbols_latest.csv" ]; then
           FILE_SIZE=$(ls -lh dtn_symbols/all_symbols_latest.csv | awk '{print $5}')
           LINE_COUNT=$(wc -l < dtn_symbols/all_symbols_latest.csv)
@@ -87,26 +86,17 @@ jobs:
           echo "download_success=false" >> $GITHUB_OUTPUT
         fi
 
-    # The compression steps now run BEFORE the commit
-    # - name: Compress symbols file
-    #   if: steps.download.outputs.download_success == 'true'
-    #   run: |
-    #     gzip -kf dtn_symbols/all_symbols_latest.csv
-    #     zip dtn_symbols/all_symbols_latest.zip dtn_symbols/all_symbols_latest.csv
-
     - name: Compress split symbols directory
       if: steps.download.outputs.download_success == 'true'
       run: |
         if [ -d "dtn_symbols/by_exchange" ]; then
           echo "Compressing split symbol files..."
-          # Add this line to remove the old file first
           rm -f dtn_symbols/by_exchange.zip
           zip -r dtn_symbols/by_exchange.zip dtn_symbols/by_exchange
         else
           echo "Split symbol directory not found, skipping compression."
         fi
-      
-    # MOVED and CORRECTED: This step now runs after file creation
+
     - name: Commit and push if file exists
       if: steps.download.outputs.download_success == 'true'
       run: |
@@ -125,9 +115,9 @@ jobs:
         import pandas as pd
         import json
         from datetime import datetime
-        
+
         df = pd.read_csv('dtn_symbols/all_symbols_latest.csv')
-        
+
         stats = {
             'timestamp': datetime.now().isoformat(),
             'total_symbols': len(df),
@@ -137,10 +127,10 @@ jobs:
             'top_exchanges': df['exchange'].value_counts().head(10).to_dict() if 'exchange' in df else {},
             'top_security_types': df['securityType'].value_counts().head(10).to_dict() if 'securityType' in df else {}
         }
-        
+
         with open('dtn_symbols/download_stats.json', 'w') as f:
             json.dump(stats, f, indent=2)
-        
+
         with open('dtn_symbols/SUMMARY.md', 'w') as f:
             f.write(f"# DTN Symbol Download Summary\n\n")
             f.write(f"- **Timestamp**: {stats['timestamp']}\n")
@@ -152,21 +142,17 @@ jobs:
             for exchange, count in list(stats['top_exchanges'].items())[:10]:
                 f.write(f"- {exchange}: {count:,}\n")
         EOF
-    
+
     - name: Upload symbols as artifact
       if: steps.download.outputs.download_success == 'true'
       uses: actions/upload-artifact@v4
       with:
         name: dtn-symbols-${{ github.run_number }}
         path: |
-          # dtn_symbols/all_symbols_latest.csv.gz
-          # dtn_symbols/all_symbols_latest.zip
           dtn_symbols/by_exchange.zip
-          # dtn_symbols/download_stats.json
           dtn_symbols/SUMMARY.md
         retention-days: 1
-    
-    # CORRECTED: Added by_exchange.zip to the release assets
+
     - name: Create Release
       if: steps.download.outputs.download_success == 'true' && (github.event.inputs.create_release == 'true' || github.event_name == 'schedule')
       env:
@@ -174,19 +160,18 @@ jobs:
       run: |
         TAG_NAME="symbols-$(date +'%Y%m%d-%H%M%S')"
         RELEASE_NAME="DTN Symbols - $(date +'%Y-%m-%d %H:%M:%S UTC')"
-        
+
         gh release create "$TAG_NAME" \
           --title "$RELEASE_NAME" \
           --notes "Automated symbol download containing ${{ steps.download.outputs.line_count }} symbols" \
-          # dtn_symbols/all_symbols_latest.csv.gz \
           dtn_symbols/by_exchange.zip \
           dtn_symbols/download_stats.json
-    
+
     - name: Clean up batch files
       if: always()
       run: |
         rm -f dtn_symbols/batch_*.csv
-    
+
     - name: Send notification on failure
       if: failure()
       uses: actions/github-script@v7
@@ -200,7 +185,7 @@ jobs:
             labels: ['bug', 'automation']
           });
           console.log(`Created issue #${issue.data.number}`);
-    
+
     - name: Update workflow status
       if: always()
       run: |
@@ -212,4 +197,3 @@ jobs:
           echo "- File size: ${{ steps.download.outputs.file_size }}" >> $GITHUB_STEP_SUMMARY
         else
           echo "❌ **Download Failed**" >> $GITHUB_STEP_SUMMARY
-        fi
