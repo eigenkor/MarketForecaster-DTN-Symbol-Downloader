@@ -1,8 +1,4 @@
 symbol,description,exchange,listedMarket,securityType
-@RSQ25C.OI.Z,CANOLA Aug 2025 Future Option Call Total Open Interest,ICEFC,ICEFC,COMBINED_FOPTION
-@RSQ25C.VOL.Z,CANOLA Aug 2025 Future Option Call Total Volume,ICEFC,ICEFC,COMBINED_FOPTION
-@RSQ25P.OI.Z,CANOLA Aug 2025 Future Option Put Total Open Interest,ICEFC,ICEFC,COMBINED_FOPTION
-@RSQ25P.VOL.Z,CANOLA Aug 2025 Future Option Put Total Volume,ICEFC,ICEFC,COMBINED_FOPTION
 @RSU25C.OI.Z,CANOLA Sep 2025 Future Option Call Total Open Interest,ICEFC,ICEFC,COMBINED_FOPTION
 @RSU25C.VOL.Z,CANOLA Sep 2025 Future Option Call Total Volume,ICEFC,ICEFC,COMBINED_FOPTION
 @RSU25P.OI.Z,CANOLA Sep 2025 Future Option Put Total Open Interest,ICEFC,ICEFC,COMBINED_FOPTION
