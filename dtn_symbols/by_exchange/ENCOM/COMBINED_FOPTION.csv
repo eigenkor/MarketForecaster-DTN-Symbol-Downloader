@@ -1,8 +1,4 @@
 symbol,description,exchange,listedMarket,securityType
-CAQ25C.OI.Z,CORN Aug 2025 Future Option Call Total Open Interest,ENCOM,ENCOM,COMBINED_FOPTION
-CAQ25C.VOL.Z,CORN Aug 2025 Future Option Call Total Volume,ENCOM,ENCOM,COMBINED_FOPTION
-CAQ25P.OI.Z,CORN Aug 2025 Future Option Put Total Open Interest,ENCOM,ENCOM,COMBINED_FOPTION
-CAQ25P.VOL.Z,CORN Aug 2025 Future Option Put Total Volume,ENCOM,ENCOM,COMBINED_FOPTION
 CAX25C.OI.Z,CORN Nov 2025 Future Option Call Total Open Interest,ENCOM,ENCOM,COMBINED_FOPTION
 CAX25C.VOL.Z,CORN Nov 2025 Future Option Call Total Volume,ENCOM,ENCOM,COMBINED_FOPTION
 CAX25P.OI.Z,CORN Nov 2025 Future Option Put Total Open Interest,ENCOM,ENCOM,COMBINED_FOPTION
