@@ -923,7 +923,6 @@ CLPAUD.EUAM,Chilean Peso vs Australian Dollar - TenforeX Synthetic Symbol,TENFOR
 CLPBRL.COMP,Chilean Peso vs Brazilian Real - Composite Symbol,TENFORE,TENFORE,FOREX
 CLPBRL.EUAM,Chilean Peso vs Brazilian Real - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CLPCLF.BCEC,Chilean Peso vs Chilean Unidad de Fomento - Central Bank of Chile,TENFORE,TENFORE,FOREX
-CLPCLF.CBOC,Chilean Peso vs Chilean Unidad de Fomento - Central Bank of China,TENFORE,TENFORE,FOREX
 CLPCLF.COMP,Chilean Peso vs Chilean Unidad de Fomento - Composite Symbol,TENFORE,TENFORE,FOREX
 CLPCOP.COMP,Chilean Peso vs Colombian Peso - Composite Symbol,TENFORE,TENFORE,FOREX
 CLPCOP.EUAM,Chilean Peso vs Colombian Peso - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
@@ -944,7 +943,6 @@ CLPUSD.DRES,Chilean Peso vs US Dollar - Dresdner Kleinwort,TENFORE,TENFORE,FOREX
 CLPCNY.COMP,Chilean Peso vs Yuan Renminbi - Composite Symbol,TENFORE,TENFORE,FOREX
 CLPCNY.EUAM,Chilean Peso vs Yuan Renminbi - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CLFCLP.BCEC,Chilean Unidad de Fomento vs Chilean Peso - Central Bank of Chile,TENFORE,TENFORE,FOREX
-CLFCLP.CBOC,Chilean Unidad de Fomento vs Chilean Peso - Central Bank of China,TENFORE,TENFORE,FOREX
 CLFCLP.COMP,Chilean Unidad de Fomento vs Chilean Peso - Composite Symbol,TENFORE,TENFORE,FOREX
 COPARS.COMP,Colombian Peso vs Argentine Peso - Composite Symbol,TENFORE,TENFORE,FOREX
 COPARS.EUAM,Colombian Peso vs Argentine Peso - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
