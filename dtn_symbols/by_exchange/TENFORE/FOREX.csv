@@ -112,7 +112,6 @@ AUDHRK.COMP,Australian Dollar vs Croatian Kuna - Composite Symbol,TENFORE,TENFOR
 AUDHRK.EUAM,Australian Dollar vs Croatian Kuna - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 AUDCZK.COMP,Australian Dollar vs Czech Koruna - Composite Symbol,TENFORE,TENFORE,FOREX
 AUDCZK.CMC,Australian Dollar vs Czech Koruna - Currency Management Corporation,TENFORE,TENFORE,FOREX
-AUDCZK.SAXO,Australian Dollar vs Czech Koruna - Saxo Bank,TENFORE,TENFORE,FOREX
 AUDDKK.COMP,Australian Dollar vs Danish Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 AUDDKK.CMC,Australian Dollar vs Danish Krone - Currency Management Corporation,TENFORE,TENFORE,FOREX
 AUDDKK.SAXO,Australian Dollar vs Danish Krone - Saxo Bank,TENFORE,TENFORE,FOREX
@@ -140,7 +139,6 @@ AUDCNH.SAXO,Australian Dollar vs Hong Kong Renminbi - Saxo Bank,TENFORE,TENFORE,
 AUDHUF.COMP,Australian Dollar vs Hungarian Forint - Composite Symbol,TENFORE,TENFORE,FOREX
 AUDHUF.CMC,Australian Dollar vs Hungarian Forint - Currency Management Corporation,TENFORE,TENFORE,FOREX
 AUDHUF.MORN,Australian Dollar vs Hungarian Forint - Morningstar Synthetic,TENFORE,TENFORE,FOREX
-AUDHUF.SAXO,Australian Dollar vs Hungarian Forint - Saxo Bank,TENFORE,TENFORE,FOREX
 AUDHUF.ABBA,Australian Dollar vs Hungarian Forint - TenForex Average  Best Bid/Ask,TENFORE,TENFORE,FOREX
 AUDINR.COMP,Australian Dollar vs Indian Rupee - Composite Symbol,TENFORE,TENFORE,FOREX
 AUDINR.MORN,Australian Dollar vs Indian Rupee - Morningstar Synthetic,TENFORE,TENFORE,FOREX
@@ -290,7 +288,6 @@ AUDNZDTN.COMP,Australian Dollar vs New Zealand Dollar Tomorrow - Composite Symbo
 AUDNZDTN.SURF,Australian Dollar vs New Zealand Dollar Tomorrow - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 AUDNOK.COMP,Australian Dollar vs Norwegian Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 AUDNOK.CMC,Australian Dollar vs Norwegian Krone - Currency Management Corporation,TENFORE,TENFORE,FOREX
-AUDNOK.SAXO,Australian Dollar vs Norwegian Krone - Saxo Bank,TENFORE,TENFORE,FOREX
 AUDNOK.EUAM,Australian Dollar vs Norwegian Krone - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 AUDNOK.SURF,Australian Dollar vs Norwegian Krone - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 AUDPKR.COMP,Australian Dollar vs Pakistan Rupee - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -323,7 +320,6 @@ AUDSGD.SURF,Australian Dollar vs Singapore Dollar - Tullet Single Unified Record
 AUDZAR.COMP,Australian Dollar vs South African Rand - Composite Symbol,TENFORE,TENFORE,FOREX
 AUDZAR.CMC,Australian Dollar vs South African Rand - Currency Management Corporation,TENFORE,TENFORE,FOREX
 AUDZAR.MORN,Australian Dollar vs South African Rand - Morningstar Synthetic,TENFORE,TENFORE,FOREX
-AUDZAR.SAXO,Australian Dollar vs South African Rand - Saxo Bank,TENFORE,TENFORE,FOREX
 AUDZAR.ABBA,Australian Dollar vs South African Rand - TenForex Average  Best Bid/Ask,TENFORE,TENFORE,FOREX
 AUDZAR.EUAM,Australian Dollar vs South African Rand - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 AUDKRW.COMP,Australian Dollar vs South Korean Won - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -332,7 +328,6 @@ AUDXDR.COMP,Australian Dollar vs Special Drawing Rights - Composite Symbol,TENFO
 AUDXDR.EUAM,Australian Dollar vs Special Drawing Rights - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 AUDSEK.COMP,Australian Dollar vs Swedish Krona - Composite Symbol,TENFORE,TENFORE,FOREX
 AUDSEK.CMC,Australian Dollar vs Swedish Krona - Currency Management Corporation,TENFORE,TENFORE,FOREX
-AUDSEK.SAXO,Australian Dollar vs Swedish Krona - Saxo Bank,TENFORE,TENFORE,FOREX
 AUDSEK.EUAM,Australian Dollar vs Swedish Krona - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 AUDSEK.SURF,Australian Dollar vs Swedish Krona - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 AUDCHF.COMP,Australian Dollar vs Swiss Franc - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -661,7 +656,6 @@ CADCZK.CMC,Canadian Dollar vs Czech Koruna - Currency Management Corporation,TEN
 CADCZK.EUAM,Canadian Dollar vs Czech Koruna - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CADDKK.COMP,Canadian Dollar vs Danish Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 CADDKK.CMC,Canadian Dollar vs Danish Krone - Currency Management Corporation,TENFORE,TENFORE,FOREX
-CADDKK.SAXO,Canadian Dollar vs Danish Krone - Saxo Bank,TENFORE,TENFORE,FOREX
 CADDKK.SURF,Canadian Dollar vs Danish Krone - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 CADEUR.COMP,Canadian Dollar vs Euro - Composite Symbol,TENFORE,TENFORE,FOREX
 CADEUR.CMC,Canadian Dollar vs Euro - Currency Management Corporation,TENFORE,TENFORE,FOREX
@@ -807,7 +801,6 @@ CADXDR.COMP,Canadian Dollar vs Special Drawing Rights - Composite Symbol,TENFORE
 CADXDR.EUAM,Canadian Dollar vs Special Drawing Rights - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CADSEK.COMP,Canadian Dollar vs Swedish Krona - Composite Symbol,TENFORE,TENFORE,FOREX
 CADSEK.CMC,Canadian Dollar vs Swedish Krona - Currency Management Corporation,TENFORE,TENFORE,FOREX
-CADSEK.SAXO,Canadian Dollar vs Swedish Krona - Saxo Bank,TENFORE,TENFORE,FOREX
 CADSEK.SURF,Canadian Dollar vs Swedish Krona - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 CADCHF.COMP,Canadian Dollar vs Swiss Franc - Composite Symbol,TENFORE,TENFORE,FOREX
 CADCHF.CMC,Canadian Dollar vs Swiss Franc - Currency Management Corporation,TENFORE,TENFORE,FOREX
@@ -855,7 +848,6 @@ CADTHB.COMP,Canadian Dollar vs Thai Baht - Composite Symbol,TENFORE,TENFORE,FORE
 CADTHB.EUAM,Canadian Dollar vs Thai Baht - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CADTRY.COMP,Canadian Dollar vs Turkish Lira - Composite Symbol,TENFORE,TENFORE,FOREX
 CADTRY.CMC,Canadian Dollar vs Turkish Lira - Currency Management Corporation,TENFORE,TENFORE,FOREX
-CADTRY.SAXO,Canadian Dollar vs Turkish Lira - Saxo Bank,TENFORE,TENFORE,FOREX
 CADTRY.EUAM,Canadian Dollar vs Turkish Lira - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CADAED.COMP,Canadian Dollar vs UAE Dirham - Composite Symbol,TENFORE,TENFORE,FOREX
 CADAED.EUAM,Canadian Dollar vs UAE Dirham - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
@@ -1056,7 +1048,6 @@ DKKCOP.COMP,Danish Krone vs Colombian Peso - Composite Symbol,TENFORE,TENFORE,FO
 DKKCOP.EUAM,Danish Krone vs Colombian Peso - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 DKKCZK.COMP,Danish Krone vs Czech Koruna - Composite Symbol,TENFORE,TENFORE,FOREX
 DKKCZK.CMC,Danish Krone vs Czech Koruna - Currency Management Corporation,TENFORE,TENFORE,FOREX
-DKKCZK.SAXO,Danish Krone vs Czech Koruna - Saxo Bank,TENFORE,TENFORE,FOREX
 DKKEUR.COMP,Danish Krone vs Euro - Composite Symbol,TENFORE,TENFORE,FOREX
 DKKEUR.CMC,Danish Krone vs Euro - Currency Management Corporation,TENFORE,TENFORE,FOREX
 DKKEUR.MORN,Danish Krone vs Euro - Morningstar Synthetic,TENFORE,TENFORE,FOREX
@@ -1101,7 +1092,6 @@ DKKHKD.EUAM,Danish Krone vs Hong Kong Dollar - TenforeX Synthetic Symbol,TENFORE
 DKKHUF.COMP,Danish Krone vs Hungarian Forint - Composite Symbol,TENFORE,TENFORE,FOREX
 DKKHUF.CMC,Danish Krone vs Hungarian Forint - Currency Management Corporation,TENFORE,TENFORE,FOREX
 DKKHUF.MORN,Danish Krone vs Hungarian Forint - Morningstar Synthetic,TENFORE,TENFORE,FOREX
-DKKHUF.SAXO,Danish Krone vs Hungarian Forint - Saxo Bank,TENFORE,TENFORE,FOREX
 DKKHUF.ABBA,Danish Krone vs Hungarian Forint - TenForex Average  Best Bid/Ask,TENFORE,TENFORE,FOREX
 DKKHUF.EUAM,Danish Krone vs Hungarian Forint - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 DKKISK.COMP,Danish Krone vs Iceland Krona - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -1134,7 +1124,6 @@ DKKPHP.COMP,Danish Krone vs Philippine Peso - Composite Symbol,TENFORE,TENFORE,F
 DKKPHP.EUAM,Danish Krone vs Philippine Peso - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 DKKPLN.COMP,Danish Krone vs Polish Zloty - Composite Symbol,TENFORE,TENFORE,FOREX
 DKKPLN.CMC,Danish Krone vs Polish Zloty - Currency Management Corporation,TENFORE,TENFORE,FOREX
-DKKPLN.SAXO,Danish Krone vs Polish Zloty - Saxo Bank,TENFORE,TENFORE,FOREX
 DKKPLN.EUAM,Danish Krone vs Polish Zloty - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 DKKGBP.COMP,Danish Krone vs Pound Sterling - Composite Symbol,TENFORE,TENFORE,FOREX
 DKKGBP.CMC,Danish Krone vs Pound Sterling - Currency Management Corporation,TENFORE,TENFORE,FOREX
@@ -1148,7 +1137,6 @@ DKKSGD.CMC,Danish Krone vs Singapore Dollar - Currency Management Corporation,TE
 DKKSGD.SAXO,Danish Krone vs Singapore Dollar - Saxo Bank,TENFORE,TENFORE,FOREX
 DKKZAR.COMP,Danish Krone vs South African Rand - Composite Symbol,TENFORE,TENFORE,FOREX
 DKKZAR.CMC,Danish Krone vs South African Rand - Currency Management Corporation,TENFORE,TENFORE,FOREX
-DKKZAR.SAXO,Danish Krone vs South African Rand - Saxo Bank,TENFORE,TENFORE,FOREX
 DKKXDR.COMP,Danish Krone vs Special Drawing Rights - Composite Symbol,TENFORE,TENFORE,FOREX
 DKKXDR.EUAM,Danish Krone vs Special Drawing Rights - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 DKKSEK.COMP,Danish Krone vs Swedish Krona - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -2482,18 +2470,14 @@ HUFBRL.COMP,Hungarian Forint vs Brazilian Real - Composite Symbol,TENFORE,TENFOR
 HUFBRL.EUAM,Hungarian Forint vs Brazilian Real - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 HUFCAD.COMP,Hungarian Forint vs Canadian Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFCAD.EUAM,Hungarian Forint vs Canadian Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
-HUFCZK.COMP,Hungarian Forint vs Czech Koruna - Composite Symbol,TENFORE,TENFORE,FOREX
-HUFCZK.EUAM,Hungarian Forint vs Czech Koruna - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
+HUFCZK.COMP,Hungarian Forint vs Czech Koruna - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
 HUFDKK.COMP,Hungarian Forint vs Danish Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFDKK.EUAM,Hungarian Forint vs Danish Krone - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 HUFEUR.COMP,Hungarian Forint vs Euro - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFEUR.EUAM,Hungarian Forint vs Euro - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
-HUFHKD.COMP,Hungarian Forint vs Hong Kong Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
-HUFHKD.EUAM,Hungarian Forint vs Hong Kong Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
-HUFJPY.COMP,Hungarian Forint vs Japanese Yen - Composite Symbol,TENFORE,TENFORE,FOREX
-HUFJPY.SAXO,Hungarian Forint vs Japanese Yen - Saxo Bank,TENFORE,TENFORE,FOREX
-HUFMXN.COMP,Hungarian Forint vs Mexican Peso - Composite Symbol,TENFORE,TENFORE,FOREX
-HUFMXN.EUAM,Hungarian Forint vs Mexican Peso - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
+HUFHKD.COMP,Hungarian Forint vs Hong Kong Dollar - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
+HUFJPY.COMP,Hungarian Forint vs Japanese Yen - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
+HUFMXN.COMP,Hungarian Forint vs Mexican Peso - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
 HUFNZD.COMP,Hungarian Forint vs New Zealand Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFNZD.EUAM,Hungarian Forint vs New Zealand Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 HUFPLN.COMP,Hungarian Forint vs Polish Zloty - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -2509,8 +2493,8 @@ HUFSEK.EUAM,Hungarian Forint vs Swedish Krona - TenforeX Synthetic Symbol,TENFOR
 HUFCHF.COMP,Hungarian Forint vs Swiss Franc - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFCHF.MORN,Hungarian Forint vs Swiss Franc - Morningstar Synthetic,TENFORE,TENFORE,FOREX
 HUFCHF.EUAM,Hungarian Forint vs Swiss Franc - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
-HUFAED.COMP,Hungarian Forint vs UAE Dirham - Composite Symbol,TENFORE,TENFORE,FOREX
-HUFAED.EUAM,Hungarian Forint vs UAE Dirham - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
+HUFAED.COMP,Hungarian Forint vs UAE Dirham - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
+HUFAED.EUAM,Hungarian Forint vs UAE Dirham - TenforeX Synthetic Symbol [CALC],TENFORE,TENFORE,FOREX
 HUFUSD.COMP,Hungarian Forint vs US Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFUSD.EUAM,Hungarian Forint vs US Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 ISKDKK.COMP,Iceland Krona vs Danish Krone - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -3122,10 +3106,8 @@ NZDCAD.EUAM,New Zealand Dollar vs Canadian Dollar - TenforeX Synthetic Symbol,TE
 NZDCAD.SURF,New Zealand Dollar vs Canadian Dollar - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 NZDCZK.COMP,New Zealand Dollar vs Czech Koruna - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDCZK.CMC,New Zealand Dollar vs Czech Koruna - Currency Management Corporation,TENFORE,TENFORE,FOREX
-NZDCZK.SAXO,New Zealand Dollar vs Czech Koruna - Saxo Bank,TENFORE,TENFORE,FOREX
 NZDDKK.COMP,New Zealand Dollar vs Danish Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDDKK.CMC,New Zealand Dollar vs Danish Krone - Currency Management Corporation,TENFORE,TENFORE,FOREX
-NZDDKK.SAXO,New Zealand Dollar vs Danish Krone - Saxo Bank,TENFORE,TENFORE,FOREX
 NZDDKK.EUAM,New Zealand Dollar vs Danish Krone - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 NZDDKK.SURF,New Zealand Dollar vs Danish Krone - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 NZDEUR.COMP,New Zealand Dollar vs Euro - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -3142,7 +3124,6 @@ NZDCNH.RADA,New Zealand Dollar vs Hong Kong Renminbi - Rada Forex,TENFORE,TENFOR
 NZDHUF.COMP,New Zealand Dollar vs Hungarian Forint - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDHUF.CMC,New Zealand Dollar vs Hungarian Forint - Currency Management Corporation,TENFORE,TENFORE,FOREX
 NZDHUF.MORN,New Zealand Dollar vs Hungarian Forint - Morningstar Synthetic,TENFORE,TENFORE,FOREX
-NZDHUF.SAXO,New Zealand Dollar vs Hungarian Forint - Saxo Bank,TENFORE,TENFORE,FOREX
 NZDHUF.ABBA,New Zealand Dollar vs Hungarian Forint - TenForex Average  Best Bid/Ask,TENFORE,TENFORE,FOREX
 NZDINR.COMP,New Zealand Dollar vs Indian Rupee - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDINR.MORN,New Zealand Dollar vs Indian Rupee - Morningstar Synthetic,TENFORE,TENFORE,FOREX
@@ -3197,7 +3178,6 @@ NZDMYR.COMP,New Zealand Dollar vs Malaysian Ringgit - Composite Symbol,TENFORE,T
 NZDMYR.EUAM,New Zealand Dollar vs Malaysian Ringgit - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 NZDMXN.COMP,New Zealand Dollar vs Mexican Peso - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDMXN.CMC,New Zealand Dollar vs Mexican Peso - Currency Management Corporation,TENFORE,TENFORE,FOREX
-NZDMXN.SAXO,New Zealand Dollar vs Mexican Peso - Saxo Bank,TENFORE,TENFORE,FOREX
 NZDTWD.COMP,New Zealand Dollar vs New Taiwan Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDTWD.EUAM,New Zealand Dollar vs New Taiwan Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 NZDNOK.COMP,New Zealand Dollar vs Norwegian Krone - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -3208,7 +3188,6 @@ NZDPKR.COMP,New Zealand Dollar vs Pakistan Rupee - Composite Symbol,TENFORE,TENF
 NZDPKR.EUAM,New Zealand Dollar vs Pakistan Rupee - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 NZDPLN.COMP,New Zealand Dollar vs Polish Zloty - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDPLN.CMC,New Zealand Dollar vs Polish Zloty - Currency Management Corporation,TENFORE,TENFORE,FOREX
-NZDPLN.SAXO,New Zealand Dollar vs Polish Zloty - Saxo Bank,TENFORE,TENFORE,FOREX
 NZDGBP.COMP,New Zealand Dollar vs Pound Sterling - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDGBP.CMC,New Zealand Dollar vs Pound Sterling - Currency Management Corporation,TENFORE,TENFORE,FOREX
 NZDGBP.SAXO,New Zealand Dollar vs Pound Sterling - Saxo Bank,TENFORE,TENFORE,FOREX
@@ -3220,7 +3199,6 @@ NZDSGD.EUAM,New Zealand Dollar vs Singapore Dollar - TenforeX Synthetic Symbol,T
 NZDSGD.SURF,New Zealand Dollar vs Singapore Dollar - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 NZDZAR.COMP,New Zealand Dollar vs South African Rand - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDZAR.CMC,New Zealand Dollar vs South African Rand - Currency Management Corporation,TENFORE,TENFORE,FOREX
-NZDZAR.SAXO,New Zealand Dollar vs South African Rand - Saxo Bank,TENFORE,TENFORE,FOREX
 NZDZAR.EUAM,New Zealand Dollar vs South African Rand - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 NZDKRW.COMP,New Zealand Dollar vs South Korean Won - Composite Symbol,TENFORE,TENFORE,FOREX
 NZDKRW.EUAM,New Zealand Dollar vs South Korean Won - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
@@ -3588,7 +3566,6 @@ PLNCZK.COMP,Polish Zloty vs Czech Koruna - Composite Symbol,TENFORE,TENFORE,FORE
 PLNCZK.CMC,Polish Zloty vs Czech Koruna - Currency Management Corporation,TENFORE,TENFORE,FOREX
 PLNDKK.COMP,Polish Zloty vs Danish Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 PLNDKK.CMC,Polish Zloty vs Danish Krone - Currency Management Corporation,TENFORE,TENFORE,FOREX
-PLNDKK.SAXO,Polish Zloty vs Danish Krone - Saxo Bank,TENFORE,TENFORE,FOREX
 PLNDKK.EUAM,Polish Zloty vs Danish Krone - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 PLNEUR.COMP,Polish Zloty vs Euro - Composite Symbol,TENFORE,TENFORE,FOREX
 PLNEUR.CMC,Polish Zloty vs Euro - Currency Management Corporation,TENFORE,TENFORE,FOREX
@@ -3605,7 +3582,6 @@ PLNILS.COMP,Polish Zloty vs Israeli Sheqel - Composite Symbol,TENFORE,TENFORE,FO
 PLNILS.EUAM,Polish Zloty vs Israeli Sheqel - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 PLNJPY.COMP,Polish Zloty vs Japanese Yen - Composite Symbol,TENFORE,TENFORE,FOREX
 PLNJPY.CMC,Polish Zloty vs Japanese Yen - Currency Management Corporation,TENFORE,TENFORE,FOREX
-PLNJPY.SAXO,Polish Zloty vs Japanese Yen - Saxo Bank,TENFORE,TENFORE,FOREX
 PLNJPY.EUAM,Polish Zloty vs Japanese Yen - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 PLNKES.COMP,Polish Zloty vs Kenyan Shilling - Composite Symbol,TENFORE,TENFORE,FOREX
 PLNKES.EUAM,Polish Zloty vs Kenyan Shilling - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
@@ -3626,7 +3602,6 @@ PLNZAR.COMP,Polish Zloty vs South African Rand - Composite Symbol,TENFORE,TENFOR
 PLNZAR.CMC,Polish Zloty vs South African Rand - Currency Management Corporation,TENFORE,TENFORE,FOREX
 PLNSEK.COMP,Polish Zloty vs Swedish Krona - Composite Symbol,TENFORE,TENFORE,FOREX
 PLNSEK.CMC,Polish Zloty vs Swedish Krona - Currency Management Corporation,TENFORE,TENFORE,FOREX
-PLNSEK.SAXO,Polish Zloty vs Swedish Krona - Saxo Bank,TENFORE,TENFORE,FOREX
 PLNCHF.COMP,Polish Zloty vs Swiss Franc - Composite Symbol,TENFORE,TENFORE,FOREX
 PLNCHF.CMC,Polish Zloty vs Swiss Franc - Currency Management Corporation,TENFORE,TENFORE,FOREX
 PLNCHF.EUAM,Polish Zloty vs Swiss Franc - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
@@ -3951,7 +3926,6 @@ GBPIQD.COMP,Pound Sterling vs Iraqi Dinar - Composite Symbol,TENFORE,TENFORE,FOR
 GBPIQD.EUAM,Pound Sterling vs Iraqi Dinar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 GBPILS.COMP,Pound Sterling vs Israeli Sheqel - Composite Symbol,TENFORE,TENFORE,FOREX
 GBPILS.MORN,Pound Sterling vs Israeli Sheqel - Morningstar Synthetic,TENFORE,TENFORE,FOREX
-GBPILS.SAXO,Pound Sterling vs Israeli Sheqel - Saxo Bank,TENFORE,TENFORE,FOREX
 GBPILS.ABBA,Pound Sterling vs Israeli Sheqel - TenForex Average  Best Bid/Ask,TENFORE,TENFORE,FOREX
 GBPILS.EUAM,Pound Sterling vs Israeli Sheqel - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 GBPJMD.COMP,Pound Sterling vs Jamaican Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -4526,7 +4500,6 @@ SGDEURTN.COMP,Singapore Dollar vs Euro Tomorrow - Composite Symbol,TENFORE,TENFO
 SGDEURTN.SURF,Singapore Dollar vs Euro Tomorrow - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 SGDHKD.COMP,Singapore Dollar vs Hong Kong Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 SGDHKD.CMC,Singapore Dollar vs Hong Kong Dollar - Currency Management Corporation,TENFORE,TENFORE,FOREX
-SGDHKD.SAXO,Singapore Dollar vs Hong Kong Dollar - Saxo Bank,TENFORE,TENFORE,FOREX
 SGDHKD.EUAM,Singapore Dollar vs Hong Kong Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 SGDHKD.SURF,Singapore Dollar vs Hong Kong Dollar - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 SGDCNH.COMP,Singapore Dollar vs Hong Kong Renminbi - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -4961,7 +4934,6 @@ SEKILS.COMP,Swedish Krona vs Israeli Sheqel - Composite Symbol,TENFORE,TENFORE,F
 SEKILS.EUAM,Swedish Krona vs Israeli Sheqel - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 SEKJPY.COMP,Swedish Krona vs Japanese Yen - Composite Symbol,TENFORE,TENFORE,FOREX
 SEKJPY.CMC,Swedish Krona vs Japanese Yen - Currency Management Corporation,TENFORE,TENFORE,FOREX
-SEKJPY.SAXO,Swedish Krona vs Japanese Yen - Saxo Bank,TENFORE,TENFORE,FOREX
 SEKJPY.SURF,Swedish Krona vs Japanese Yen - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 SEKKES.COMP,Swedish Krona vs Kenyan Shilling - Composite Symbol,TENFORE,TENFORE,FOREX
 SEKKES.EUAM,Swedish Krona vs Kenyan Shilling - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
@@ -4971,12 +4943,11 @@ SEKNZD.COMP,Swedish Krona vs New Zealand Dollar - Composite Symbol,TENFORE,TENFO
 SEKNZD.CMC,Swedish Krona vs New Zealand Dollar - Currency Management Corporation,TENFORE,TENFORE,FOREX
 SEKNOK.COMP,Swedish Krona vs Norwegian Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 SEKNOK.CMC,Swedish Krona vs Norwegian Krone - Currency Management Corporation,TENFORE,TENFORE,FOREX
-SEKNOK.SAXO,Swedish Krona vs Norwegian Krone - Saxo Bank,TENFORE,TENFORE,FOREX
+SEKNOK.SAXO,Swedish Krona vs Norwegian Krone - Saxo Bank [CALC],TENFORE,TENFORE,FOREX
 SEKNOK.EUAM,Swedish Krona vs Norwegian Krone - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 SEKNOK.SURF,Swedish Krona vs Norwegian Krone - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 SEKPLN.COMP,Swedish Krona vs Polish Zloty - Composite Symbol,TENFORE,TENFORE,FOREX
 SEKPLN.CMC,Swedish Krona vs Polish Zloty - Currency Management Corporation,TENFORE,TENFORE,FOREX
-SEKPLN.SAXO,Swedish Krona vs Polish Zloty - Saxo Bank,TENFORE,TENFORE,FOREX
 SEKGBP.COMP,Swedish Krona vs Pound Sterling - Composite Symbol,TENFORE,TENFORE,FOREX
 SEKGBP.CMC,Swedish Krona vs Pound Sterling - Currency Management Corporation,TENFORE,TENFORE,FOREX
 SEKGBP.EUAM,Swedish Krona vs Pound Sterling - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
@@ -5008,7 +4979,7 @@ CHFARS.EUAM,Swiss Franc vs Argentine Peso - TenforeX Synthetic Symbol,TENFORE,TE
 CHFAUD.COMP,Swiss Franc vs Australian Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 CHFAUD.CMC,Swiss Franc vs Australian Dollar - Currency Management Corporation,TENFORE,TENFORE,FOREX
 CHFAUD.MORN,Swiss Franc vs Australian Dollar - Morningstar Synthetic,TENFORE,TENFORE,FOREX
-CHFAUD.SAXO,Swiss Franc vs Australian Dollar - Saxo Bank,TENFORE,TENFORE,FOREX
+CHFAUD.SAXO,Swiss Franc vs Australian Dollar - Saxo Bank [CALC],TENFORE,TENFORE,FOREX
 CHFAUD.ABBA,Swiss Franc vs Australian Dollar - TenForex Average  Best Bid/Ask,TENFORE,TENFORE,FOREX
 CHFAUD.EUAM,Swiss Franc vs Australian Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CHFBWP.COMP,Swiss Franc vs Botswana Pula - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -5025,7 +4996,6 @@ CHFCLP.EUAM,Swiss Franc vs Chilean Peso - TenforeX Synthetic Symbol,TENFORE,TENF
 CHFCZK.COMP,Swiss Franc vs Czech Koruna - Composite Symbol,TENFORE,TENFORE,FOREX
 CHFCZK.CMC,Swiss Franc vs Czech Koruna - Currency Management Corporation,TENFORE,TENFORE,FOREX
 CHFCZK.MORN,Swiss Franc vs Czech Koruna - Morningstar Synthetic,TENFORE,TENFORE,FOREX
-CHFCZK.SAXO,Swiss Franc vs Czech Koruna - Saxo Bank,TENFORE,TENFORE,FOREX
 CHFCZK.ABBA,Swiss Franc vs Czech Koruna - TenForex Average  Best Bid/Ask,TENFORE,TENFORE,FOREX
 CHFDKK.COMP,Swiss Franc vs Danish Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 CHFDKK.CMC,Swiss Franc vs Danish Krone - Currency Management Corporation,TENFORE,TENFORE,FOREX

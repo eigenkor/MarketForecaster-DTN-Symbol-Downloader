@@ -2,7 +2,6 @@ symbol,description,exchange,listedMarket,securityType
 XAUARSO.COMP,Gold - Argentine Peso - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUARSO.EUAM,Gold - Argentine Peso - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUAUDO.COMP,Gold - Australian Dollar - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
-XAUAUDO.SAXO,Gold - Australian Dollar - Ounce - Saxo Bank - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUAUDO.EUAM,Gold - Australian Dollar - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUBRLO.COMP,Gold - Brazilian Real - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUBRLO.EUAM,Gold - Brazilian Real - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
@@ -11,12 +10,9 @@ XAUCADO.EUAM,Gold - Canadian Dollar - Ounce - TenforeX Synthetic Symbol - TENFOR
 XAUEURO.COMP,Gold - Euro - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUEURO.SAXO,Gold - Euro - Ounce - Saxo Bank - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUEURO.EUAM,Gold - Euro - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
-XAUHKDO.COMP,Gold - Hong Kong Dollar - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
-XAUHKDO.SAXO,Gold - Hong Kong Dollar - Ounce - Saxo Bank - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUINRO.COMP,Gold - Indian Rupee - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUINRO.EUAM,Gold - Indian Rupee - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUJPYO.COMP,Gold - Japanese Yen - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
-XAUJPYO.SAXO,Gold - Japanese Yen - Ounce - Saxo Bank - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUJPYO.EUAM,Gold - Japanese Yen - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUMXNO.COMP,Gold - Mexican Peso - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUMXNO.EUAM,Gold - Mexican Peso - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
@@ -32,8 +28,6 @@ XAUZARO.COMP,Gold - South African Rand - Ounce - Composite Symbol - TENFORE,TENF
 XAUZARO.EUAM,Gold - South African Rand - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUKRWO.COMP,Gold - South Korean Won - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUKRWO.EUAM,Gold - South Korean Won - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
-XAUTHBO.COMP,Gold - Thai Baht - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
-XAUTHBO.SAXO,Gold - Thai Baht - Ounce - Saxo Bank - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUTRYO.COMP,Gold - Turkish Lira - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUTRYO.SAXO,Gold - Turkish Lira - Ounce - Saxo Bank - TENFORE,TENFORE,TENFORE,PRECMTL
 XAUUSDO.COMP,Gold - US Dollar - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
@@ -46,7 +40,6 @@ XAUCNYO.EUAM,Gold - Yuan Renminbi - Ounce - TenforeX Synthetic Symbol - TENFORE,
 XAGARSO.COMP,Silver - Argentine Peso - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAGARSO.EUAM,Silver - Argentine Peso - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAGAUDO.COMP,Silver - Australian Dollar - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
-XAGAUDO.SAXO,Silver - Australian Dollar - Ounce - Saxo Bank - TENFORE,TENFORE,TENFORE,PRECMTL
 XAGAUDO.EUAM,Silver - Australian Dollar - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAGBRLO.COMP,Silver - Brazilian Real - Ounce - Composite Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
 XAGBRLO.EUAM,Silver - Brazilian Real - Ounce - TenforeX Synthetic Symbol - TENFORE,TENFORE,TENFORE,PRECMTL
