@@ -2470,14 +2470,10 @@ HUFBRL.COMP,Hungarian Forint vs Brazilian Real - Composite Symbol,TENFORE,TENFOR
 HUFBRL.EUAM,Hungarian Forint vs Brazilian Real - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 HUFCAD.COMP,Hungarian Forint vs Canadian Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFCAD.EUAM,Hungarian Forint vs Canadian Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
-HUFCZK.COMP,Hungarian Forint vs Czech Koruna - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
 HUFDKK.COMP,Hungarian Forint vs Danish Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFDKK.EUAM,Hungarian Forint vs Danish Krone - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 HUFEUR.COMP,Hungarian Forint vs Euro - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFEUR.EUAM,Hungarian Forint vs Euro - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
-HUFHKD.COMP,Hungarian Forint vs Hong Kong Dollar - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
-HUFJPY.COMP,Hungarian Forint vs Japanese Yen - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
-HUFMXN.COMP,Hungarian Forint vs Mexican Peso - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
 HUFNZD.COMP,Hungarian Forint vs New Zealand Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFNZD.EUAM,Hungarian Forint vs New Zealand Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 HUFPLN.COMP,Hungarian Forint vs Polish Zloty - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -2493,8 +2489,6 @@ HUFSEK.EUAM,Hungarian Forint vs Swedish Krona - TenforeX Synthetic Symbol,TENFOR
 HUFCHF.COMP,Hungarian Forint vs Swiss Franc - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFCHF.MORN,Hungarian Forint vs Swiss Franc - Morningstar Synthetic,TENFORE,TENFORE,FOREX
 HUFCHF.EUAM,Hungarian Forint vs Swiss Franc - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
-HUFAED.COMP,Hungarian Forint vs UAE Dirham - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
-HUFAED.EUAM,Hungarian Forint vs UAE Dirham - TenforeX Synthetic Symbol [CALC],TENFORE,TENFORE,FOREX
 HUFUSD.COMP,Hungarian Forint vs US Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 HUFUSD.EUAM,Hungarian Forint vs US Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 ISKDKK.COMP,Iceland Krona vs Danish Krone - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -4943,7 +4937,6 @@ SEKNZD.COMP,Swedish Krona vs New Zealand Dollar - Composite Symbol,TENFORE,TENFO
 SEKNZD.CMC,Swedish Krona vs New Zealand Dollar - Currency Management Corporation,TENFORE,TENFORE,FOREX
 SEKNOK.COMP,Swedish Krona vs Norwegian Krone - Composite Symbol,TENFORE,TENFORE,FOREX
 SEKNOK.CMC,Swedish Krona vs Norwegian Krone - Currency Management Corporation,TENFORE,TENFORE,FOREX
-SEKNOK.SAXO,Swedish Krona vs Norwegian Krone - Saxo Bank [CALC],TENFORE,TENFORE,FOREX
 SEKNOK.EUAM,Swedish Krona vs Norwegian Krone - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 SEKNOK.SURF,Swedish Krona vs Norwegian Krone - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 SEKPLN.COMP,Swedish Krona vs Polish Zloty - Composite Symbol,TENFORE,TENFORE,FOREX
@@ -4979,7 +4972,6 @@ CHFARS.EUAM,Swiss Franc vs Argentine Peso - TenforeX Synthetic Symbol,TENFORE,TE
 CHFAUD.COMP,Swiss Franc vs Australian Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 CHFAUD.CMC,Swiss Franc vs Australian Dollar - Currency Management Corporation,TENFORE,TENFORE,FOREX
 CHFAUD.MORN,Swiss Franc vs Australian Dollar - Morningstar Synthetic,TENFORE,TENFORE,FOREX
-CHFAUD.SAXO,Swiss Franc vs Australian Dollar - Saxo Bank [CALC],TENFORE,TENFORE,FOREX
 CHFAUD.ABBA,Swiss Franc vs Australian Dollar - TenForex Average  Best Bid/Ask,TENFORE,TENFORE,FOREX
 CHFAUD.EUAM,Swiss Franc vs Australian Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CHFBWP.COMP,Swiss Franc vs Botswana Pula - Composite Symbol,TENFORE,TENFORE,FOREX
